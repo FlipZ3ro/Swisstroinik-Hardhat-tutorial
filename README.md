@@ -7,11 +7,15 @@
 [NODEJS](https://nodejs.org/dist/v18.17.1/node-v18.17.1-x64.msi
 )
 
+[FAUCET](https://faucet.testnet.swisstronik.com/)
+
+
 ## Referensi
 
 [DOKUMEN RESMI](https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat)
 
 [DISCORD](https://discord.gg/c5WBWaSYkt)
+
 
 ### Langkah 1: Persiapan dan Instalasi Hardhat
 
