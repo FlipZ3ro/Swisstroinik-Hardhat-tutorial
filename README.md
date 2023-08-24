@@ -1,3 +1,12 @@
+# HARDHAT DEPLOY TUTORIAL
+
+ALAT :
+[VSCODE](https://code.visualstudio.com/download)
+
+[NODEJS](https://nodejs.org/dist/v18.17.1/node-v18.17.1-x64.msi
+)
+
+
 ### Langkah 1: Persiapan dan Instalasi Hardhat
 
 Pastikan Anda sudah memiliki Node.js dan npm (Node Package Manager) diinstal pada sistem Anda sebelum melanjutkan dengan panduan ini. Jika belum, Anda dapat mengunduhnya dari situs resmi Node.js.
