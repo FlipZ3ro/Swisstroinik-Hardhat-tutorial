@@ -111,6 +111,7 @@ Pastikan Anda telah menginstal @swisstronik/swisstronik.js dengan menjalankan pe
 npm install --save @swisstronik/swisstronik.js
 ```
 Buat berkas setMessage.js di dalam direktori "scripts" dan salin kode berikut:
+masukan sc yang sudah di buat tadi di bagian SC
 
 ```
 const hre = require("hardhat");
@@ -128,7 +129,7 @@ const sendShieldedTransaction = async (signer, destination, data, value) => {
 };
 
 async function main() {
-  const contractAddress = "0xf84Df872D385997aBc28E3f07A2E3cd707c9698a";
+  const contractAddress = "SC";
   const [signer] = await hre.ethers.getSigners();
   const contractFactory = await hre.ethers.getContractFactory("Swisstronik");
   const contract = contractFactory.attach(contractAddress);
@@ -154,6 +155,7 @@ npx hardhat run scripts/setMessage.js --network swisstronik
 ### Langkah 6: Interaksi dengan Kontrak - Panggilan
 
 Buat berkas getMessage.js di dalam direktori "scripts" dan salin kode berikut:
+masukan sc yang sudah di buat tadi di bagian SC
 
 ```
 const hre = require("hardhat");
@@ -170,7 +172,7 @@ const sendShieldedQuery = async (provider, destination, data) => {
 };
 
 async function main() {
-  const contractAddress = "0xf84Df872D385997aBc28E3f07A2E3cd707c9698a";
+  const contractAddress = "SC";
   const [signer] = await hre.ethers.getSigners();
   const contractFactory = await hre.ethers.getContractFactory("Swisstronik");
   const contract = contractFactory.attach(contractAddress);
