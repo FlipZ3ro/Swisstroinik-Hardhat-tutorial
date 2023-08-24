@@ -111,6 +111,7 @@ Pastikan Anda telah menginstal @swisstronik/swisstronik.js dengan menjalankan pe
 npm install --save @swisstronik/swisstronik.js
 ```
 Buat berkas setMessage.js di dalam direktori "scripts" dan salin kode berikut:
+
 masukan sc yang sudah di buat tadi di bagian SC
 
 ```
@@ -155,6 +156,7 @@ npx hardhat run scripts/setMessage.js --network swisstronik
 ### Langkah 6: Interaksi dengan Kontrak - Panggilan
 
 Buat berkas getMessage.js di dalam direktori "scripts" dan salin kode berikut:
+
 masukan sc yang sudah di buat tadi di bagian SC
 
 ```
