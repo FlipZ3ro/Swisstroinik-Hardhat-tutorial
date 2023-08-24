@@ -11,6 +11,8 @@
 
 [DOKUMEN RESMI](https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat)
 
+[DISCORD](https://discord.gg/c5WBWaSYkt)
+
 ### Langkah 1: Persiapan dan Instalasi Hardhat
 
 Pastikan Anda sudah memiliki Node.js dan npm (Node Package Manager) diinstal pada sistem Anda sebelum melanjutkan dengan panduan ini. Jika belum, Anda dapat mengunduhnya dari situs resmi Node.js.
