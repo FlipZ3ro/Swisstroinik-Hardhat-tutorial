@@ -26,6 +26,11 @@ npx hardhat
 ```
 Pilih opsi "Create a JavaScript project" dan tekan enter.
 
+Pastikan Anda menginstal hardhat toolbox dengan menjalankan
+```
+npm install --save-dev @nomicfoundation/hardhat-toolbox
+```
+
 ### Langkah 2: Konfigurasi hardhat.config.js
 
 Setelah berhasil membuat proyek Hardhat, langkah selanjutnya adalah mengkonfigurasi berkas hardhat.config.js. Ini adalah berkas konfigurasi utama di mana Anda dapat menyesuaikan jaringan, plugin, pengaturan kompilasi, dan lain-lain.
