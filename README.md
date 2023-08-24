@@ -1,4 +1,4 @@
-# HARDHAT DEPLOY TUTORIAL
+# SWISSTRONIK HARDHAT DEPLOY TUTORIAL
 
 ## ALAT :
 
@@ -7,6 +7,9 @@
 [NODEJS](https://nodejs.org/dist/v18.17.1/node-v18.17.1-x64.msi
 )
 
+## Referensi
+
+[DOKUMEN RESMI](https://swisstronik.gitbook.io/swisstronik-docs/build-on-swisstronik/contract-deployment-hardhat)
 
 ### Langkah 1: Persiapan dan Instalasi Hardhat
 
