@@ -52,8 +52,8 @@ module.exports = {
 
 ### Langkah 3: Menulis dan Kompilasi Smart Contract
 
-Buatlah direktori "contracts" di dalam direktori proyek Anda dan buka berkas .sol untuk menulis smart contract. Beri nama berkas ini misalnya HelloSwisstronik.sol.
-Salin kode smart contract berikut ke dalam berkas HelloSwisstronik.sol:
+Buatlah direktori "contracts" di dalam direktori proyek Anda dan buka berkas .sol untuk menulis smart contract. Beri nama berkas ini misalnya Hello_swtr.sol.
+Salin kode smart contract berikut ke dalam berkas Hello_swtr.sol:
 
 ```
 // SPDX-License-Identifier: UNLICENSED
